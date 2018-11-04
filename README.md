@@ -3,7 +3,7 @@ This is a pointless project, inspired by JAMstack_conf
 
 ## Setup
 
-Make sure you have [node](node) and [npm](npm) installed.  
+Make sure you have [node][node] and [npm][npm] installed.  
 Run:  
 ```
 npm install
