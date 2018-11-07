@@ -1,0 +1,23 @@
+{
+  "name": "miniature-lamp",
+  "version": "1.0.0",
+  "description": "This is a pointless project, inspired by JAMstack_conf",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "lintfix": "eslint **/*.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HappyViki/miniature-lamp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HappyViki/miniature-lamp/issues"
+  },
+  "homepage": "https://github.com/HappyViki/miniature-lamp#readme",
+  "devDependencies": {
+    "eslint": "5.8.0"
+  }
+}
