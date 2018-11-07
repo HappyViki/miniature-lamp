@@ -12,3 +12,7 @@ Some inspo:
 
    [YouTube - IFrame Player API](https://developers.google.com/youtube/iframe_api_reference),
    [Building Custom Controls for HTML5 Videos](https://blog.teamtreehouse.com/building-custom-controls-for-html5-videos)
+   
+- photo editing
+
+   [Photopea API](https://www.photopea.com/api/)
