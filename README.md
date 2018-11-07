@@ -15,6 +15,8 @@ npm install
     * `npm run lint`
     * `npm run lintfix`
         * This fixes smaller issues that do not need human intervention
+* CSS
+    * Same as above (JS and CSS are combined, for now)
 
 [node]: https://nodejs.org/en/
 [npm]: https://www.npmjs.com/
