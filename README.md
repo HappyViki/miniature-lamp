@@ -21,19 +21,13 @@ npm install
 [node]: https://nodejs.org/en/
 [npm]: https://www.npmjs.com/
 
-Some inspo:
+## Some inspiration
 - SVG
-
-   [css-tricks - Animating SVG with CSS](https://css-tricks.com/animating-svg-css/),
-   [30 Awesome SVG Animation For Your Inspiration](https://www.hongkiat.com/blog/svg-animations/),
-   [A how-to guide to SVG animation](https://go.tiny.cloud/blog/guide-svg-animation/)
-   
+   - [css-tricks - Animating SVG with CSS](https://css-tricks.com/animating-svg-css/),
+   - [30 Awesome SVG Animation For Your Inspiration](https://www.hongkiat.com/blog/svg-animations/),
+   - [A how-to guide to SVG animation](https://go.tiny.cloud/blog/guide-svg-animation/)
 - iFrame HTML5 video
-
-   [YouTube - IFrame Player API](https://developers.google.com/youtube/iframe_api_reference),
-   [Building Custom Controls for HTML5 Videos](https://blog.teamtreehouse.com/building-custom-controls-for-html5-videos)
-   
+   - [YouTube - IFrame Player API](https://developers.google.com/youtube/iframe_api_reference),
+   - [Building Custom Controls for HTML5 Videos](https://blog.teamtreehouse.com/building-custom-controls-for-html5-videos)
 - photo editing
-
-   [Photopea API](https://www.photopea.com/api/)
-
+   -[Photopea API](https://www.photopea.com/api/)
