@@ -3,18 +3,24 @@ body {
 	background-image: url('david-von-diemar-706918-unsplash.jpg'); /* Photo by David von Diemar on Unsplash */
 	background-size: cover;
 	font-family: 'Roboto Slab', serif;
+	margin: 0;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Cabin Sketch', cursive;
 }
-#page {
+.page-contaier{
+	width: 100%;
+}
+.page {
 	background-color: #fff;
 	border: double #000 3px;
-	height: 80vh;
-	width: 80vw;
+	top: 0; left: 0; bottom: 0; right: 0;
+	margin: 64px;
+	padding: 24px;
 }
 #authors {
-	bottom: 16px;
+	bottom: 0;
+	right: 0;
+	margin: 16px;
 	position: absolute;
-	right: 8px;
 }
